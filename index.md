@@ -6,9 +6,9 @@ MyWallet es una aplicación para iOS para gestionar tus finanzas personales de f
 
 ## 1. Responsable del tratamiento
 
-- **Responsable:** [NOMBRE Y APELLIDOS DEL TITULAR]
-- **Ubicación:** [CIUDAD, PAÍS]
-- **Contacto de privacidad:** [EMAIL DE CONTACTO]
+- **Responsable:** [JON GARAY CUADRADO]
+- **Ubicación:** [VITORIA, ESPAÑA]
+- **Contacto de privacidad:** [mywallet.esp@gmail.com]
 
 ## 2. Qué datos tratamos
 
