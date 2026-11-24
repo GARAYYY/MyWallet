@@ -6,9 +6,9 @@ MyWallet es una aplicación para iOS para gestionar tus finanzas personales de f
 
 ## 1. Responsable del tratamiento
 
-- **Responsable:** [JON GARAY CUADRADO]
-- **Ubicación:** [VITORIA, ESPAÑA]
-- **Contacto de privacidad:** [mywallet.esp@gmail.com]
+- **Responsable:** JON GARAY CUADRADO
+- **Ubicación:** VITORIA, ESPAÑA
+- **Contacto de privacidad:** mywallet.esp@gmail.com
 
 ## 2. Qué datos tratamos
 
@@ -64,7 +64,7 @@ Nuestro proveedor de infraestructura puede registrar datos técnicos de conexió
 
 Para funcionar, MyWallet se apoya en estos proveedores, que actúan como encargados del tratamiento:
 
-- **Supabase:** autenticación, base de datos, funciones de servidor y envío de los correos de confirmación y recuperación de contraseña. [REGIÓN DEL PROYECTO DE SUPABASE, por ejemplo: «Frankfurt, Unión Europea»].
+- **Supabase:** autenticación, base de datos, funciones de servidor y envío de los correos de confirmación y recuperación de contraseña. «España, Unión Europea»
 - **Apple:** App Store y compras de suscripciones (StoreKit), notificaciones push (APNs) y la app Atajos. Al buscar el logotipo de una suscripción, el texto que escribes como nombre se envía a la API de búsqueda de iTunes de Apple.
 - **Google:** al buscar el logotipo de una suscripción por su sitio web, puede consultarse el servicio público de iconos de Google, al que se envía únicamente el dominio.
 
@@ -79,7 +79,7 @@ Si alguno de los proveedores anteriores trata datos fuera del Espacio Económico
 - Mientras tengas una cuenta activa.
 - Puedes **eliminar tu cuenta** en cualquier momento desde *Ajustes → Perfil → Eliminar cuenta*. Se borran tu cuenta y todos los datos asociados de nuestros sistemas.
 - También puedes usar *Ajustes → Datos y copias de seguridad → Eliminar todos mis datos* para borrar tus datos manteniendo la cuenta.
-- Las copias de seguridad de la infraestructura pueden conservar los datos de forma residual durante un máximo de [PLAZO, por ejemplo: «30 días»] hasta su eliminación automática.
+- Las copias de seguridad de la infraestructura pueden conservar los datos de forma residual durante un máximo de 30 días hasta su eliminación automática.
 - Al cerrar sesión se borran de tu dispositivo la instantánea de los widgets, la cola de pagos pendientes y los vínculos de tarjetas.
 - **Eliminar la cuenta no cancela la suscripción Premium.** Debes cancelarla desde los ajustes de suscripciones de tu Apple ID. Apple conserva sus propios registros de compra según su política.
 - Las copias de seguridad en JSON y las exportaciones CSV que generes y guardes fuera de la app quedan bajo tu responsabilidad. Contienen tus datos financieros sin cifrar.
@@ -90,7 +90,7 @@ Puedes ejercer en cualquier momento los derechos de acceso, rectificación, supr
 
 - **Acceso, rectificación y supresión:** directamente desde la app (editar tus datos, eliminar datos o eliminar la cuenta).
 - **Portabilidad:** desde *Ajustes → Datos y copias de seguridad* puedes exportar tus datos en JSON y CSV.
-- **Cualquier otra solicitud:** escribe a [EMAIL DE CONTACTO]. Responderemos en el plazo máximo de un mes.
+- **Cualquier otra solicitud:** escribe a mywallet.esp@gmail.com. Responderemos en el plazo máximo de un mes.
 
 Si consideras que no hemos tratado tus datos correctamente, puedes presentar una reclamación ante la **Agencia Española de Protección de Datos** (<https://www.aepd.es>).
 
@@ -105,7 +105,7 @@ Ningún sistema es infalible, pero aplicamos medidas razonables para proteger tu
 
 ## 9. Menores
 
-MyWallet no está dirigida a menores de [EDAD MÍNIMA, por ejemplo: «16»] años y no recopilamos datos de menores de forma consciente. Si crees que un menor nos ha facilitado datos, escríbenos y los eliminaremos.
+MyWallet no está dirigida a menores de 18 años y no recopilamos datos de menores de forma consciente. Si crees que un menor nos ha facilitado datos, escríbenos y los eliminaremos.
 
 ## 10. Cambios en esta política
 
@@ -113,4 +113,4 @@ Podemos actualizar esta política, por ejemplo si añadimos nuevas funciones com
 
 ## 11. Contacto
 
-Para cualquier duda sobre privacidad: [EMAIL DE CONTACTO]
+Para cualquier duda sobre privacidad: mywallet.esp@gmail.com
